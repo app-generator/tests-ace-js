@@ -1,7 +1,7 @@
-Ace (Ajax.org Cloud9 Editor)
-============================
-[![CDNJS](https://img.shields.io/cdnjs/v/ace.svg)](https://cdnjs.com/libraries/ace)
-[![npm](https://img.shields.io/npm/v/ace-builds.svg)](https://www.npmjs.com/package/ace-builds)
+# Ace (Ajax.org Cloud9 Editor) `PlayGround`
+
+- [![CDNJS](https://img.shields.io/cdnjs/v/ace.svg)](https://cdnjs.com/libraries/ace)
+- [![npm](https://img.shields.io/npm/v/ace-builds.svg)](https://www.npmjs.com/package/ace-builds)
 
 Ace is a code editor written in JavaScript.
 
@@ -21,3 +21,19 @@ For a simple way of embedding ace into webpage see [editor.html](https://github.
 To see ace in action go to [kitchen-sink-demo](http://ajaxorg.github.com/ace-builds/kitchen-sink.html), [scrollable-page-demo](http://ajaxorg.github.com/ace-builds/demo/scrollable-page.html) or [minimal demo](http://ajaxorg.github.com/ace-builds/editor.html),
 
 
+<br >
+
+## Quick Start
+
+> Using **Python** 
+
+`$ python -m http.server 9999`
+
+> Using **PHP**
+
+`$ php -S localhost:9999`
+
+<br />
+
+---
+Ace JS PlayGround - provided by [AppSeed](https://appseed.us)
