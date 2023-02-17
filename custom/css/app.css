@@ -16,6 +16,19 @@
   width: 100%;
   height: 100%;
 }
+.ace-js-playground-right-panel{
+  position: relative;
+}
+.ace-js-playground-wrapepr.loading .ace-js-playground-right-panel:after{
+  content:"Loading...";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  padding: 10px;
+}
 
 @media (max-width: 767px) {
   .ace-js-playground-header {
